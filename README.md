@@ -26,5 +26,5 @@ This is for the 1610 INFOTC Class
 
 # This is where the other markdown pages will be.
 >There will be random items here and there but they will have all requirements.
-* [1st page](https://github.com/ClaudiaFue/hello-world.git)
-* [2nd page](https://github.com/ClaudiaFue/Interests.git)
+* Page 1
+* [Page 2](https://github.com/ClaudiaFue/Markdown2.git)
